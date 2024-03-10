@@ -35,7 +35,7 @@ export function DialogCloseButton() {
                     <div className="grid items-center grid-cols-2 gap-4">
                       <h1 className="text-lg font-bold">Support</h1>
                       <p className="text-right text-sm text-gray-500">
-                        You're chatting with an agent
+                        You&apos;re chatting with an agent
                       </p>
                     </div>
                   </div>
